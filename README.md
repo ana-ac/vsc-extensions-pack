@@ -15,3 +15,6 @@ Visual Studio Code pack extensions to make it easier to customize my IDE.
 
 ## How it works
 Automatically install all extensions included in your IDE. You will only have to manage this package to uninstall or install all of them.
+
+## Instalation
+[Go to VSC Marketplace](https://marketplace.visualstudio.com/items?itemName=AnaAC.vsc-extensions-pack)
