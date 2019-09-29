@@ -1,2 +1,2 @@
-# vsc-personal-extensions-pack
+# vsc-extensions-pack
 Visual Studio Code extensions pack to make it easier to customize my IDE.
