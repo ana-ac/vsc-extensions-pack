@@ -1,0 +1,44 @@
+{
+  "name": "vsc-extensions-pack",
+  "version": "1.0.4",
+  "description": "Visual Studio Code extensions pack to make it easier to customize my IDE.",
+  "displayName": "AAC VSCode Extensions",
+  "publisher": "AnaAC",
+  "icon" : "images/icon.png",
+  "engines": {
+    "vscode": "^1.36.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ana-ac/vsc-extensions-pack.git"
+  },
+  "keywords": [
+    "npm",
+    "yeoman",
+    "vsc",
+    "visual-studio-code",
+    "extension-pack"
+  ],
+  "extensionPack": [
+    "ban.spellright",
+    "eamodio.gitlens",
+    "wesbos.theme-cobalt2",
+    "dbaeumer.vscode-eslint",
+    "Shan.code-settings-sync",
+    "wayou.vscode-todo-highlight",
+    "vincaslt.highlight-matching-tag",
+    "ybaumes.highlight-trailing-white-spaces"
+  ],
+  "author": "Ana Arriaga Coll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ana-ac/vsc-extensions-pack/issues"
+  },
+  "homepage": "https://github.com/ana-ac/vsc-extensions-pack#readme",
+  "dependencies": {
+    "vsce": "^1.66.0"
+  }
+}
