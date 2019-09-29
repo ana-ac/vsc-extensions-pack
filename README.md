@@ -1,3 +1,5 @@
+![logo-extension](./images/icon.png)
+
 # Visual Studio Code Pack Extensions
 Visual Studio Code pack extensions to make it easier to customize my IDE.
 
